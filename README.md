@@ -1,0 +1,1 @@
+Other Laumio structure for paper globes (which can be no globes) !
